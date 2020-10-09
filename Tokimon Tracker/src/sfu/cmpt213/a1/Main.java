@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 /**
  * @author Ahmed Ali
- * Student Number 301329325
  * @version 1.0
  * Main.java must be used with Tokimon.java
  * Program that tracks the characteristics of Tokimons
